@@ -7,3 +7,4 @@
 | `ls`   |          | list files in directory |
 |  `cd`  |          | change directory is used to navigate to another folder from your PC. CD lets you go to a specific folder |
 | `mkdir` |          | make directory allows you to make a new directory. This command can create multiple directories at once | 
+| `rm`      | *  |   removes everything within the directory|
